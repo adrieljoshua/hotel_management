@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: new_agent
+pool: adriel
 
 steps:
 - task: Maven@4
